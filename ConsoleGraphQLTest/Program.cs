@@ -6,6 +6,7 @@ namespace ConsoleGraphQLTest
 {
     class Program
     {
+        // trzeba będzie podać adres
         private const string StoreAddress = @"";
         static void Main(string[] args)
         {
